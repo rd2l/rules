@@ -13,11 +13,18 @@
             <li>Next is the regular season for the league</li>
             <li>The season finishes with an RD2L wide playoff tournament</li>
         </ul>
+        <h4>Participant Conduct</h4>
+        <ul>
+            <li>Participants are to be respectful to their team as well as their opponents.</li>
+            <li>A player may choose to mute players on their team. But if the captain feels it hinders the team (not just one player), it may be brought to an admin for review.</li>
+            <li>If a participant's behavior is deemed to be toxic, rude, interruptive to team play, or anything undesirable to the general well-being of most of the team, they may be removed by an admin. Depending on severity upon removal, they may be temporarily suspended.</li>
+            <li>If a player or captain is removed for poor conduct, the team is entitled to a free agent of equal or lesser MMR. Note: due to free agent availability, there is no guarantee on how close the MMR of the free agent will be to the previous player.</li>
+        </ul>
         <h4>Captains</h4>
         <ul>
             <li>Captains will be responsible for drafting their RD2L team.</li>
             <li>Captains will be responsible for organizing their teams. How a captain does this is up to them but the captain may: make all decisions and carry out all their duties themselves, defer some or all decisions and duties to any other player on their team, or make decisions and carry out their duties in cooperation with their team. Organizing their team may include and is not limited to arranging practices, arranging scrimmages against other teams, deciding which players will play each game, picking and banning for games, calling moves and strategy during games, and organizing casters for their matches.</li>
-            <li>Captains will be responsible for turning in the results of each regular season and playoff match by 9pm of the day after their match.</li>
+            <li>Captains will be responsible for turning in the results of each regular season and playoff match by 9pm of the day after their match if the match is not ticketed.</li>
             <li>The captain will be the primary contact for their team, this includes communication with other teams as well as RD2L admins.</li>
             <li>Captains <b>do not</b> have the power to remove players from their team after the draft.</li>
             <li>Captains must have been on a team (as captain or player) which completed the previous season or be vouched for an admin. Vouch candidates will also be required to complete a short survey to introduce them to the league’s members. The RD2L admins hold the power to deny any individual from being a captain.</li>
@@ -46,27 +53,28 @@
         <ul>
             <li>Free Agents are players that are eligible to be permanently added to teams during the season. If a captain requests a free agent, an admin will assign one to you after verifying that the free agent still wishes to participate in RD2L.</li>
             <li>
-                Free agents can be drawn from three sources:
+                Free agents can be drawn from four sources:
                 <ul>
                     <li>Players who signed up but didn't make it into the draft.</li>
                     <li>Players who made it into the draft but went undrafted (due to captain no-shows).</li>
                     <li>players from disbanded teams. This includes free agents from other divisions at the discretion of the two division admins.</li>
+                    <li>A free agent sign-up after the drafts are completed if deemed necessary to ensure an adequate number of free agents.</li>
                 </ul>
                 Players from disbanded teams are only eligible for free agency if they were contributing players on the team before it disbanded. Anyone who didn't show up for games or had serious conflicts with their teammates leading to the disband will not be Free Agents. When a team disbands, the division admin will determine which (if any) players from that team will become Free Agents.
             </li>
-            <li>A larger free agent pool will be created between divisions in a region. This will allow for better free-agents to be acquired quicker.</li>
+            <li>A larger free agent pool may be created between divisions in a region. This will allow for better free-agents to be acquired quicker.</li>
             <li>If a captain would like a free-agent, they must prove that they have an inactive player. After this is done, the inactive player is removed from the team in all forms, including any decisions made regarding stand-ins.</li>
             <li>When the admin assigns a new free-agent to the team, this free-agent cannot be rejected.</li>
             <li>The free agent will either be a close match or a player with lower MMR (as close as possible), depending on the availability of free-agents.</li>
             <li>Free agents cannot be assigned until the end of practice weeks to ensure that teams are fully utilizing the players they drafted.</li>
             <li>Free agents will not be assigned after the default time for Week 8 games of the division of the team that asked for a free agent. As long as the captain requests a free agent before the default time, the admin will attempt to find a free agent.</li>
             <li>Exceptions can be made here; the idea is to make sure teams have explored all avenues for contacting their players.</li>
-            <li>A free-agent sign-up may be created for players wishing to sign-up during the season.</li>         
+            <li>A free-agent sign-up may be created for players wishing to sign-up during the season depending on that season's needs.</li>         
         </ul>    
         <h4>Standins</h4>
         <ul>
-            <li>Teams may use 1 stand-in from their division per game, for a maximum of 4 games during a season. If a team finds itself needing more than this, they should have contacted the division admin with regards to a free-agent.</li>
-            <li>Stand-in usage from the season will be reset for all playoff teams. Playoff teams may use a stand-in for a maximum of two individual games of the playoffs.</li>
+            <li>Teams may use 1 stand-in from their division per match, for a maximum of 4 matches during a season. If a team finds itself needing more than this, they should have contacted the division admin with regards to a free-agent. (Match means both games of the week.)</li>
+            <li>Stand-in usage from the season will be reset for all playoff teams. Playoff teams may use a stand-in for a maximum of two series of the playoffs. (Series means all games of a round, usually best of 3 or best of 5.)</li>
             <li>Captains must attempt to use all of their current roster's players before requesting a stand-in. Captains will attempt to organise a stand-in to be used without admin involvement. The opposing captain may reject any stand-in with a higher MMR than the lowest MMR player missing from the team, with a floor of 3k MMR.
                 <ul>
                     <li>Example: A team is missing their 5k, 4k, and 2.5k players, the opposing captain may reject any stand-in above 3k MMR.</li>
@@ -76,6 +84,8 @@
             <li>If the opposing captain rejects a stand-in, an admin may assign a reasonable stand-in of their choice.</li>
             <li>Admins must be made aware at least 72 hours prior to their match night if a player has left the team or never shown up for the player to be exempt from the rule. Players marked off their roster in time will not have their MMR counted as one of the missing MMRs.</li>
             <li>We encourage captains to keep an up-to-date dialogue open with your division admin in regards to any player quitting.</li>
+            <li> If an admin discovers that a player used an unauthorized stand-in after the matches have been completed, he or she may retroactively call a forfeit for any games the unauthorized player played in. This will be decided on a case by case basis.</li>
+            <li>Stand-ins cannot be used if the team has 5 players online and available at the time of the match. Stand-ins are never allowed to be used in place of a team’s usual subs. If it is discovered that a captain used a stand-in when a member of his or her team was online and ready to play at the default time, then the captain may be removed from the team. The disallowed stand-in will no longer be allowed to stand-in for the remainder of the season. Further punishment may be given at the discretion of the admins.</li>
         </ul>          
         <h4>Teams</h4>
         <ul>
@@ -83,7 +93,6 @@
             <li>Each team is permitted to permanently add a Free Agent if necessary. If no Free Agents are available, no additional players are allowed. Free agents will be of similar skill level to the person they are replacing. However, if no players of similar skill level remain, then a person of lower skill level may be assigned.</li>
             <li>Teams are required to have a team name, team tag, and a team logo (no matter the quality).</li>
             <li>The non-captain players on a team are drafted by the captain during the draft. The only permitted roster change is to add Free Agents.</li>
-            <li>Teams may use one standin per game. </li>
             <li>If a team fails to field 5 roster players at the default start time for a regular season or playoff match the team forfeits the match.</li>
             <li>If a team is no longer capable of fielding 5 roster players for the remainder of the season, it is the remaining players responsibility to contact the RD2L admins and let them know this. The team will be scheduled no further games. This is not an encouraged course of action, but if unavoidable officially withdrawing allows other teams the chance to actually play each week.</li>
             <li>If a team forfeits two weeks in a row, the team may be removed for the remainder of the season at the discretion of the division admin.</li>
@@ -131,9 +140,9 @@
             <li>Each team can wait up to a total of 15 minutes per match for disconnected player(s). </li>
             <li>In the event a player (or players) are unable to continue playing for any reason their team may choose to continue the match without them (using the DC’ed players heroes is permitted). </li>
             <li>The players playing in a game are allowed to differ between games of the same match. However only official rostered players to the team are ever allowed to play.</li>
-            <li>Captains are required to submit results from their matches to the Captain section of rd2l.com within 24 hours. If matches cannot not ticketed due to an unforeseen issue, a screenshot of the score screen will suffice.</li>
+            <li>Captains are required to submit results from their matches to the Captain section of rd2l.com within 24 hours if the match was not ticketed. If matches cannot not ticketed due to an unforeseen issue, a screenshot of the score screen will suffice.</li>
             <li>Only recognized casters are permitted to be in broadcaster channels during matches.</li>
-            <li>Spectators on is encouraged but the 2 minute delay is required. No spectators are allowed in the lobby; they are only allowed to spectate via DotaTV.</li>
+            <li>Spectators on is encouraged but a 5 minute delay is required. No in-game spectators except admins and authorized casters are allowed in the lobby; they are only allowed to spectate via DotaTV.</li>
             <li>Coaches are not allowed.</li>
             <li>Game remakes or loading from a replay are permitted if there is a major issue affecting gameplay (major ping increases, heavy packet loss, Steam down). Both team captains must agree to attempt the attempt. If load from replay does not work, the game will be remade.</li>
         </ul>
