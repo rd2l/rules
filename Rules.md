@@ -4,7 +4,6 @@
         <p>
             The Redditors Dota 2 League (RD2L) provides a Dota 2 league formatted for individuals to have a place to play with and learn from other players of varying skill levels while providing competitive matches. The goals of each player may differ between learning the competitive style of Dota 2; improving their Dota 2 skills; meeting new friends and players; or as an outlet for their competitive Dota 2 desires. This is accomplished by providing players with as even as teams as possible with varying skill levels on each team so that more experienced players can teach those of lesser experience while every match remains as fair and competitive as possible.
         </p>
-
         <h4>Redditors Dota 2 League Format</h4>
         <ul>
             <li>We only accept player signups, no team signups.</li>
@@ -14,7 +13,6 @@
             <li>Next is the regular season for the league</li>
             <li>The season finishes with an RD2L wide playoff tournament</li>
         </ul>
-
         <h4>Captains</h4>
         <ul>
             <li>Captains will be responsible for drafting their RD2L team.</li>
@@ -26,7 +24,6 @@
             <li>Captains are also Players and all player rules apply to captains.</li>
             <li>New Captains should be >= 3000 Solo MMR. Anyone who has Captained in a previous season is exempt from this requirement.</li>
         </ul>
-
         <h4>Players</h4>
         <ul>
             <li>Players must sign-up on the current Steam account they primarily use for playing Dota, except in the case described in the next rule. The required 500 games and 250 wins on the account must all have been played by the player who is signing up.</li>
@@ -45,7 +42,6 @@
             <li>This league aims to be casual and relaxed while maintaining fairness and a competitive format. Please refrain from flaming or being condescending on the subreddit and during matches.</li>
             <li>Admins will be watching for accounts that have unusual match history. Those accounts may be removed from the league at the time they are discovered at the discretion of the admins. Since there are various ways this rule can be violated, any other punishment will be determined on a case-by-case basis.</li>
        </ul>
-
         <h4>Free Agents</h4>
         <ul>
             <li>Free Agents are players that are eligible to be permanently added to teams during the season. If a captain requests a free agent, an admin will assign one to you after verifying that the free agent still wishes to participate in RD2L.</li>
@@ -66,8 +62,7 @@
             <li>Free agents will not be assigned after the default time for Week 8 games of the division of the team that asked for a free agent. As long as the captain requests a free agent before the default time, the admin will attempt to find a free agent.</li>
             <li>Exceptions can be made here; the idea is to make sure teams have explored all avenues for contacting their players.</li>
             <li>A free-agent sign-up may be created for players wishing to sign-up during the season.</li>         
-        </ul>
-        
+        </ul>    
         <h4>Standins</h4>
         <ul>
             <li>Teams may use 1 stand-in from their division per game, for a maximum of 4 games during a season. If a team finds itself needing more than this, they should have contacted the division admin with regards to a free-agent.</li>
@@ -81,8 +76,7 @@
             <li>If the opposing captain rejects a stand-in, an admin may assign a reasonable stand-in of their choice.</li>
             <li>Admins must be made aware at least 72 hours prior to their match night if a player has left the team or never shown up for the player to be exempt from the rule. Players marked off their roster in time will not have their MMR counted as one of the missing MMRs.</li>
             <li>We encourage captains to keep an up-to-date dialogue open with your division admin in regards to any player quitting.</li>
-        </ul>
-            
+        </ul>          
         <h4>Teams</h4>
         <ul>
             <li>Teams consist of 1 captain and 6 other players, a total of 7 team members.</li>
@@ -95,7 +89,6 @@
             <li>If a team forfeits two weeks in a row, the team may be removed for the remainder of the season at the discretion of the division admin.</li>
             <li>Teams will be required to play 1 scrimmage against another RD2L team in the time after the draft and before the regular season starts.</li>
         </ul>
-
         <h4>Divisions</h4>
         <ul>
             <li>Divisions will be determined every season by the RD2L admins based on activity level for each division in previous seasons. If existing divisions grow large enough, expansion to additional days will be considered.</li>
@@ -103,7 +96,6 @@
             <li>Divisions will have as many teams as the number of captains assign to that division and as few teams as the number of players signed up to fill out those teams. (Number of Players)/(6) &le; (Number of Teams) &le; (Number of Captains). Divisions will consist of at least 6 teams.</li>
             <li>Each division will have its own admin. This admin will be the first point of contact for captains and players in the division. They will also be responsible for helping run the draft, calling forfeits, and checking results.</li>
         </ul>
-
         <h4>Draft</h4>
         <ul>
             <li>There will be one draft per division.</li>
@@ -114,7 +106,6 @@
             <li>The draft will consist of 6 rounds as needed to fill out teams.</li>
             <li>Undrafted players will go into the Free Agent pool.</li>
         </ul>
-
         <h4>Regular Season</h4>
         <ul>
             <li>The regular season consists of 8 matches.</li>
@@ -124,7 +115,6 @@
             <li>Each week’s schedule will be determined using Matchmaking Score (MMS) based matchmaking.</li>
             <li>Rank will be determined by a team’s total number of points divided by number of games played. Wins will be 2 points, ties will be 1 point, loses/forfeits will be 0 points. The team with the most points will be ranked first, and the least points ranked last. Teams tied by points will be ordered at random for scheduling reasons.</li>
         </ul>
-
         <h4>Regular Season Matches</h4>
         <ul>
             <li>Matches are played on the night associated with the given divisions.</li>
@@ -147,14 +137,12 @@
             <li>Coaches are not allowed.</li>
             <li>Game remakes or loading from a replay are permitted if there is a major issue affecting gameplay (major ping increases, heavy packet loss, Steam down). Both team captains must agree to attempt the attempt. If load from replay does not work, the game will be remade.</li>
         </ul>
-
         <h4>Playoffs</h4>
         <ul>
             <li>Playoffs will consist of a single elimination bracket tournament.</li>
             <li>A top percentage of teams from each division will make the playoffs.</li>
             <li>A round of the playoffs will happen roughly each week.</li>
         </ul>
-
         <h4>Playoff Matches</h4>
         <ul>
             <li>All playoff matches also follow the rules of regular season matches.</li>
@@ -173,12 +161,6 @@
                     <li>Select pick order AND side</li>
                 </ul>
             </li>
-        </ul>
-
-        <h3>Other Rulessets</h3>
-        <ul>
-            <li><h4><a href="/caster/rules">Caster Rules</a></h4></li>
-            <li><h4><a href="/inhouse/rules">Inhouse Rules</a></h4></li>
         </ul>
     </div>
 </div>
