@@ -160,6 +160,7 @@
             <li>Playoffs will consist of a single elimination bracket tournament.</li>
             <li>A top percentage of teams from each division will make the playoffs.</li>
             <li>A round of the playoffs will happen roughly each week.</li>
+            <li>Playoff teams may use a stand-in for a maximum of two series of the playoffs. (Series means all games of a round, usually best of 3 or best of 5.)</li>
         </ul>
         <h4>Playoff Matches</h4>
         <ul>
