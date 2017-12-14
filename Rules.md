@@ -11,14 +11,13 @@
             <li>Following captains sign-ups are the player sign-ups</li>
             <li>After the player sign-ups will be the draft to assign players to teams</li>
             <li>Next is the regular season for the league</li>
-            <li>The season finishes with an RD2L wide playoff tournament</li>
         </ul>
         <h4>Participant Conduct</h4>
         <ul>
             <li>Participants are to be respectful to their team as well as their opponents.</li>
             <li>A player may choose to mute players on their team. But if the captain feels it hinders the team (not just one player), it may be brought to an admin for review.</li>
             <li>If a participant's behavior is deemed to be toxic, rude, interruptive to team play, or anything undesirable to the general well-being of most of the team, they may be removed by an admin. Depending on severity upon removal, they may be temporarily suspended.</li>
-            <li>If a player or captain is removed for poor conduct, the team is entitled to a free agent of equal or lesser MMR. Note: due to free agent availability, there is no guarantee on how close the MMR of the free agent will be to the previous player.</li>
+            <li>If a player or captain is removed for poor conduct, the team is entitled to a free agent of equal or lesser rank. Note: due to free agent availability, there is no guarantee on how close the rank of the free agent will be to the previous player.</li>
         </ul>
         <h4>Captains</h4>
         <ul>
@@ -29,13 +28,13 @@
             <li>Captains <b>do not</b> have the power to remove players from their team after the draft.</li>
             <li>Captains must have been on a team (as captain or player) which completed the previous season or be vouched for an admin. Vouch candidates will also be required to complete a short survey to introduce them to the league’s members. The RD2L admins hold the power to deny any individual from being a captain.</li>
             <li>Captains are also Players and all player rules apply to captains.</li>
-            <li>New Captains should be >= 3000 Solo MMR. Anyone who has Captained in a previous season is exempt from this requirement.</li>
+            <li>New Captains should Legend[1] Rank or higher. Captains may be vouched or unvouched at admin discretion regardless of rank.</li>
         </ul>
         <h4>Players</h4>
         <ul>
             <li>Players must sign-up on the current Steam account they primarily use for playing Dota, except in the case described in the next rule. The required 500 games and 250 wins on the account must all have been played by the player who is signing up.</li>
-            <li>Players that have alternate accounts with higher solo MMR than their main/original must signup using the alternate account. Players that have a party MMR that is 500+ greater than their highest solo MMR should use that account to sign up.</li>
-            <li>The account used to signup should represent the player's actual skill. This means no smurfs, boosted accounts, or old accounts you haven't played on since you gained/lost 500 MMR.</li>
+            <li>Players that have alternate accounts with higher solo rank than their main/original must signup using the alternate account. Players that have a party rank that is 3 or more ranks greater than their highest solo rank should use that account to sign up.</li>
+            <li>The account used to signup should represent the player's actual skill. This means no smurfs, boosted accounts, or old accounts you haven't played on since you gained/lost 3 or more ranks.</li>
             <li>Players must complete the “Activity Check” to confirm their signup after before the pre-draft deadline.</li>
             <li>Players must sign-up for the server they usually play on. If a player has a good ping to two or more servers, the player may sign-up for a division on any of the servers. The division admin will have to grant waivers for people seeking to play on a server other than their primary one(s).</li>
             <li>Players are required to use the steam account provided at the time of sign-ups when playing any RD2L game.</li>
@@ -65,7 +64,7 @@
             <li>A larger free agent pool may be created between divisions in a region. This will allow for better free-agents to be acquired quicker.</li>
             <li>If a captain would like a free-agent, they must prove that they have an inactive player. After this is done, the inactive player is removed from the team in all forms, including any decisions made regarding stand-ins.</li>
             <li>When the admin assigns a new free-agent to the team, this free-agent cannot be rejected.</li>
-            <li>The free agent will either be a close match or a player with lower MMR (as close as possible), depending on the availability of free-agents.</li>
+            <li>The free agent will either be a close match or a player with lower rank (as close as possible), depending on the availability of free-agents.</li>
             <li>Free agents cannot be assigned until the end of practice weeks to ensure that teams are fully utilizing the players they drafted.</li>
             <li>Free agents will not be assigned after the default time for Week 8 games of the division of the team that asked for a free agent. As long as the captain requests a free agent before the default time, the admin will attempt to find a free agent.</li>
             <li>Exceptions can be made here; the idea is to make sure teams have explored all avenues for contacting their players.</li>
@@ -75,12 +74,12 @@
         <ul>
             <li>Teams may use 1 stand-in from their division per match, for a maximum of 4 matches during a season. If a team finds itself needing more than this, they should have contacted the division admin with regards to a free-agent. (Match means both games of the week.)</li>
             <li>Stand-in usage from the season will be reset for all playoff teams. Playoff teams may use a stand-in for a maximum of two series of the playoffs. (Series means all games of a round, usually best of 3 or best of 5.)</li>
-            <li>Captains must attempt to use all of their current roster's players before requesting a stand-in. Captains will attempt to organise a stand-in to be used without admin involvement. The opposing captain may reject any stand-in with a higher MMR than the lowest MMR player missing from the team, with a floor of 3k MMR.
+            <li>Captains must attempt to use all of their current roster's players before requesting a stand-in. Captains will attempt to organise a stand-in to be used without admin involvement. The opposing captain may reject any stand-in with a higher rank than the lowest rank player missing from the team, with a floor of Legend[0]. 
                 <ul>
-                    <li>Example: A team is missing their 5k, 4k, and 2.5k players, the opposing captain may reject any stand-in above 3k MMR.</li>
+                    <li>Example: A team is missing their Divine[1], Ancient[2], and Crusader[4] players, the opposing captain may reject any stand-in above Legend[0].</li>
                 </ul>
             </li>
-            <li>If you wish to reject a stand-in with lower MMR than the lowest MMR player missing from the opposing team, you must get permission from the division admin and offer a compelling reason for the rejection (suspected smurf, etc.).</li>
+            <li>If you wish to reject a stand-in with lower rank than the lowest rank player missing from the opposing team, you must get permission from the division admin and offer a compelling reason for the rejection (suspected smurf, etc.).</li>
             <li>If the opposing captain rejects a stand-in, an admin may assign a reasonable stand-in of their choice.</li>
             <li>Admins must be made aware at least 72 hours prior to their match night if a player has left the team or never shown up for the player to be exempt from the rule. Players marked off their roster in time will not have their MMR counted as one of the missing MMRs.</li>
             <li>We encourage captains to keep an up-to-date dialogue open with your division admin in regards to any player quitting.</li>
@@ -89,7 +88,7 @@
         </ul>          
         <h4>Teams</h4>
         <ul>
-            <li>Teams consist of 1 captain and 6 other players, a total of 7 team members.</li>
+            <li>Teams consist of 1 captain and 5 other players, a total of 6 team members.</li>
             <li>Each team is permitted to permanently add a Free Agent if necessary. If no Free Agents are available, no additional players are allowed. Free agents will be of similar skill level to the person they are replacing. However, if no players of similar skill level remain, then a person of lower skill level may be assigned.</li>
             <li>Teams are required to have a team name, team tag, and a team logo (no matter the quality).</li>
             <li>The non-captain players on a team are drafted by the captain during the draft. The only permitted roster change is to add Free Agents.</li>
@@ -102,17 +101,17 @@
         <ul>
             <li>Divisions will be determined every season by the RD2L admins based on activity level for each division in previous seasons. If existing divisions grow large enough, expansion to additional days will be considered.</li>
             <li>Divisions will consist of a time zone and Dota 2 server combination (example: EST and US East) as well as a night of the week (example: Thursday). All matches for that division will be played on that server, on that night of the week, and the default times will be specific to that time zone.</li>
-            <li>Divisions will have as many teams as the number of captains assign to that division and as few teams as the number of players signed up to fill out those teams. (Number of Players)/(6) &le; (Number of Teams) &le; (Number of Captains). Divisions will consist of at least 6 teams.</li>
+            <li>Divisions will have as many teams as the number of captains assign to that division and as few teams as the number of players signed up to fill out those teams. (Number of Players)/(5) &le; (Number of Teams) &le; (Number of Captains). Divisions will consist of at least 6 teams.</li>
             <li>Each division will have its own admin. This admin will be the first point of contact for captains and players in the division. They will also be responsible for helping run the draft, calling forfeits, and checking results.</li>
         </ul>
         <h4>Draft</h4>
         <ul>
             <li>There will be one draft per division.</li>
             <li>The picks of the draft will be by that division’s captains.</li>
-            <li>The pool of the draft will consist of the first 6*Num_Captains players who signed up for that division</li>
+            <li>The pool of the draft will consist of the first 5*Num_Captains players who signed up for that division</li>
             <li>The draft type (e.g., snake, linear, etc.) will be determined by the division admins.</li>
             <li>Pick order is selected based on the captain’s MMR bracket. (Roughly, lower MMR captains will be earlier in the pick order.)</li>
-            <li>The draft will consist of 6 rounds as needed to fill out teams.</li>
+            <li>The draft will consist of 5 rounds as needed to fill out teams.</li>
             <li>Undrafted players will go into the Free Agent pool.</li>
         </ul>
         <h4>Regular Season</h4>
