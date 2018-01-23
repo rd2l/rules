@@ -11,7 +11,7 @@ Games are played each week by 9 pm on the night and time zone of each division. 
 A minimum of 500 games and 250 wins are required to sign up. There is no minimum MMR requirement. However, you will be required to have your solo and party MMR visible on your profile for a period during signup. Multiple accounts or experience in Dota 1 do not count towards this requirement.
  
 <b>How do I sign up?  </b>
-Sometime during the playoffs of the current season a post will be made on the subreddit stating when sign-ups for the new season will begin. The post will have details about sign-ups, but typically they are done through the website (https://www.rd2l.us). There will be a link to sign-up for the upcoming season, which will allow you to login to Steam and complete the process. Players need to have both their solo & party MMR visible before signing up.
+Sometime during the playoffs of the current season a post will be made on the subreddit stating when sign-ups for the new season will begin. The post will have details about sign-ups, but typically they are done through the website (https://www.rd2l.com). There will be a link to sign-up for the upcoming season, which will allow you to login to Steam and complete the process. Players need to have both their solo & party MMR visible before signing up.
  
 <b>Can I sign up with friends?</b>  
 Only individual sign-ups are accepted. There is no guarantee that you and your friends will end up on the same team unless a captain happens to draft you. Likewise, if you are a captain, there is no guarantee that another person will not pick your friends. Please do not sign-up if you not willing to play on a different team from your friends.
