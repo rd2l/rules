@@ -11,6 +11,7 @@
             <li>Following captains sign-ups are the player sign-ups</li>
             <li>After the player sign-ups will be the draft to assign players to teams</li>
             <li>Next is the regular season for the league</li>
+            <li>You may not be against banning Denden</li>
         </ul>
         <h4>Participant Conduct</h4>
         <ul>
