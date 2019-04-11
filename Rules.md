@@ -1,8 +1,6 @@
-# RD2L Rules
+### Important Rules
 
-## Topic #1
-
-## Topic #2
+Rules coming soon.
 
 ### Subheading
 
