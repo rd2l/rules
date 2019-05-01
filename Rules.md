@@ -112,7 +112,7 @@ In a case of uneven number of teams, the top ranked team, who previously did not
   e. If no other player is available, a stand-in with a higher MMR can be used if the other captain agrees.  
 2. Teams may only use 1 stand-in per game for CET-WED and 2 stand-ins per game for CET-SUN.  
   a. The use of a stand-in caused by not yet having received a free agent will not count toward the above total.  
-  b. Every captain is allowed to use two stand-ins one series per season in CET-WED.  
+  b. In CET-WED each team may, once per season, use two stand-ins.
 3. The use of an unauthorized stand-in may be punished by a retroactive forfeit for the offending team.  
 
 ### 8. Free Agent Rules
