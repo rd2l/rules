@@ -4,58 +4,54 @@
 
 1. All official admin communication will be done through the Discord server.
 2. Participants may not engage in:  
-	a. Hate speech ( attacks based on a person’s race, religion, gender, ethnicity, sexual orientation, disability, etc).  
+    a. Hate speech (attacks based on a person’s race, religion, gender, ethnicity, sexual orientation, disability, etc).  
     b. Cyber-bullying.  
     c. Doxxing.  
-  	d. If you see any of the aforementioned behaviours, you can report it to Community Moderators or Admins or by messaging RD2LBot on Discord.  
 3. Conduct rules apply to both official games and Discord.
-4. Should a issue not covered by these rules arise, the solution will be handled at the admin’s discretion.
+4. Should a issue not covered by these rules arise, the solution will be handled at the admin's discretion.
 
 ### 2. Season Rules
 
-1. The RD2L season is divided into the group stage and single elimination playoffs. The duration of the group stage and the format of the playoffs will be announced on Discord by the admin team at the start of the season.
+1. The RD2L season is divided into the group stage and single elimination playoffs. The duration of the group stage is announced at the start of the season.
 2. RD2L teams play one series every week. The series are bo2 in the group stage and bo3 in the playoffs.
 3. Standings are determined by the win-lose ratio of the teams. If multiple teams are tied in the standings going into playoffs, the tie is broken as follows:  
-  a. Head to Head - the record of tied teams against each other is compared; if there is a clear winner, they go through. The same applies if there’s a clear loser. If there is not a clear winner/loser,  
+  a. Head to Head - the record of tied teams against each other is compared; if there is a clear winner, they go through. The same applies if there's a clear loser. 
   b. Strength of schedule - tied teams are assigned a score, which is calculated by summing up the total number of wins of each opponent played against during the season. Each opponent’s wins as well as the final score is adjusted for the amount of games the teams played in total. The higher score wins the tie.  
-  c. If there is still a tie, it is preferred that the tied teams play a BO1 tiebreaker to determine the winner before next week’s official series.  
-4. Divisions are determined on a per-season basis, depending on the activity and number of sign-ups for a division.
-5. Depending on the number of sign-ups for a division, subdivisions may be created within the division.
-6. The number of teams per division will depend on the number of captains and players signed up, with a minimum of 6 teams.
-7. Each division will have its own admin. This admin will be the first point of contact for captains and players in the division. They will also be responsible for helping run the draft, calling forfeits, approving stand-ins, assigning free agents and checking results.
-In a case of uneven number of teams, the top ranked team, who previously did not have a bye, will get a bye (0-0 score) for the week.
+  c. If possible, a tiebreaker match is played
+  d. Finally a cointoss decides which team wins.
+4. Divisions are determined on a per-season basis, depending on the activity and interest for a division.
+5. The number of teams per division will depend on the number of captains and players signed up, with a minimum of 6 teams.
+6. Each division has a specific division admin. This admin is the first point of contact for captains and players in the division. They are also responsible for running the draft, calling forfeits, approving stand-ins, assigning free agents and checking results.
 
 ### 3. Registration Rules
 
 1. Only individual sign-ups are accepted.
-2. All sign-ups get reviewed by a division admin and may be vouched or denied at the division admins’ discretion.
-3. Participants may sign up as players or captains. Division admins may impose requirements for participants signing up as captains, such as a rank floor requirement or requiring them to have played in previous RD2L seasons.
-4. Participants must sign up with their main account.     
+2. All sign-ups get reviewed by the admin team and may be vouched or denied at the admins' discretion.
+3. Participants may sign up as players or captains. 
+  a. There may be additional requirements for signing up as captains such as a rank floor requirement or requiring them to have played in previous RD2L seasons.
+4. Participants must sign up with their main account. 
   a. This account may not be used by any other player.  
-  b. Participants must alert the admins if the rank on this account does not accurately reflect their skill level, in which case the admins may adjust this rank for league balancing purposes.  
+  b. Participants must alert the admins if the rank on this account does not accurately reflect their skill level, in which case the admins may adjust this rank to match the player's skill.  
   c. Participants must alert the admins to any alternate accounts they own, especially if they actively use them. Failure to do so may lead to removal from the league.  
-  d. All RD2L games must be played on the Steam account the participant used to sign up. If the main account can not be accessed, an alternative account may be used. This has to be communicated towards both the admins and the opposing captain.  
+  d. All RD2L games must be played on the Steam account the participant used to sign up. If the main account can not be accessed, an alternative account may be used. This has to be communicated towards both the admins and the opposing captain before the game.  
 5. Participants must have a minimum of 500 games played on the account they sign up with.   
-  a. Participants who have fulfilled this requirement across multiple accounts, but not on a single one, will be reviewed and accepted or denied at the discretion of the admins.
+  a. Participants who have fulfilled this requirement across multiple accounts, but not on a single one, will be reviewed and accepted or denied at the discretion of the admin team.
 6. Participants should not register if they expect to miss more than 3 weeks in the season (including playoffs).
 7. Participants have the option of registering as stand-ins or free agents, and may be assigned to teams missing players throughout the season
-8. Any participant breaking a rule will be punished at the discretion of the admins on a case by case basis.
 
 ### 4. Draft Rules
 
-1. The player pool of the draft is made up of a number of players equal to the number of captains times five (for CET-WED) or four (for CET-SUN). If the number of signed up players exceeds the required amount of captains, the pool of draftable players will be decided on a first come first serve basis.
-2. The players that do not make it into the draft pool are automatically added to the free agent list and may be assigned to a team if a player drops out.
-3. Captains take turns picking 1 player at a time from the available player pool.
-4. Each captain drafts 5 players for a total of 6 players in one team (for CET-WED) and 4 players for a total of 5 players on the team (for CET-SUN).
-5. The type of draft (e.g. auction, linear, etc) is determined by the division admins.
-6. Pick order and amount of money (in case of auction draft) will be based on the captains’ ranks.
+1. The player pool of the draft is made up of a number of players equal to the number of captains times the number of players per team minus one. If the number of signed up players exceeds the required amount of captains, the pool of draftable players is determined on a first come first serve basis.
+2. The draft format is announced prior to the draft and may differ between divisions
+3. Each captain drafts exactly the number of players required to make a full team in the division
 
 ### 5. Team Rules
 
-1. If a team loses a player, they have to ask for a free agent in accordance with the Free Agent Rules (Point 7).
+1. If a team loses a player permanently, the team must file a free agent request. 
+  a. See also the Free Agent Rules (Point 7).
 2. Every player on a team’s roster must play at least half the games and series, unless circumstances prevent this.  
-  a. If a team has 6 players (CET-WED) a captain can choose to swap players inbetween series or between games within a series, but must play all players frequently.  
-3. Participants may play in multiple divisions, however at most in one sub-division per division.
+  a. If a team has more than 5 players a captain can choose to swap players inbetween series or between games within a series, but must play all players frequently.  
+3. Participants may play in multiple divisions.
 4. Captains are responsible for drafting the players and organising their RD2L team.  
   a. Captains are the primary contact for their team, for communication with both the admin team and other team captains.  
   b. The organization of the team may be delegated to a team member if the team member and captain wish to do so.  
@@ -66,7 +62,7 @@ In a case of uneven number of teams, the top ranked team, who previously did not
 
 ### 6. Game Rules
 
-1. All series are to be played in Captains Mode lobbies on Luxemburg, hosted and ticketed by one of the captains.
+1. All series are to be played in Captains Mode lobbies on Luxembourg, hosted and ticketed by one of the captains.
 2. Teams will do a coin flip for side/pick choice in the first game of a series. The loser of the game 1 coin flip has side/pick choice in game 2. In case of a game 3, the teams will do another coin flip.
 3. The lobby must have a minimum of 2 minutes of spectator delay.
 4. The deadline for series is 20:45 CET for CET-WED and 19:45 CET for CET-SUN. It is suggested that players begin gathering in the lobby 15 minutes before start time in case a stand-in might be required.  
