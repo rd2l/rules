@@ -30,7 +30,7 @@
 3. Participants may sign up as players or captains. Division admins may impose requirements for participants signing up as captains, such as a rank floor requirement or requiring them to have played in previous RD2L seasons.
 4. Participants may play in both divisions.
 5. Participants must sign up with their main account.
-	1. Participants must publicly display their match data for the duration of the season. Private match data will result in the removal of the participant’s sign up.
+	1. Participants must publicly display their match data for the duration of the season. Private match data on sign-up will result in the removal of the participant’s sign up. Hiding match data during the season will result in a punishment at the discretion of the division admins.
 	2. This account may not be used by any other player. 
 	3. Participants must alert the admins if the rank on this account does not accurately reflect their skill level, in which case the admins may adjust this rank for league balancing purposes. 
 	4. Participants must alert the admins to any alternate accounts they own, especially if they actively use them. Failure to do so may lead to removal from the league.  
@@ -59,7 +59,7 @@
 3. Captains are responsible for drafting the players and organising their RD2L team.  
 	1. Captains are the primary contact for their team, for communication with both the admin team and other team captains.  
 	2. The organization of the team may be delegated to a team member if the team member and captain wish to do so.  
-4. Each team must use an in-game team name unique to that season, meaning that it has not been used in previous seasons or for teams in other divisions during the current season.
+4. Each team must use an in-game team that is new and unique to that season, meaning that it has not been used in previous seasons, for teams in other divisions during the current season, or outside of RD2L. 
 5. Captains must ticket all games and series played.  
 	1. Teams must use the same unique in-game team for every game player.
 	2. The Home team captain is responsible for ticketing the lobby. The home team in the Group Stage is the team listed on the left hand side of the matchup, whereas in playoffs the home team is the upper team in the matchup.
