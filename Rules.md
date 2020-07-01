@@ -39,36 +39,32 @@
 	1. The sign-ups of participants who have fulfilled this requirement across multiple accounts, but not on a single one, will be reviewed and accepted or denied at the discretion of the division admins.
 7. Participants should not register if they expect to miss more than 2 weeks in the season (including playoffs).
 8. Participants have the option of registering as free agents, and may be assigned to teams missing players throughout the season, either as permanent free agents or temporary standins.
-	1. Participants who are added to the free agent list automatically after the conclusion of the player draft due to being below the cut-off do not need to manually register as free agents.
 9. Any participants found breaking these rule will be punished at the discretion of the admins on a case by case basis.
 
 ### 4. Draft Rules
 
-1. The player pool of the draft is made up of a number of players equal to the number of captains times five (for CET-WED) or four (for CET-SUN). If the number of signed up players exceeds the required amount of captains, the pool of draftable players will be decided on a first come first serve basis.
-2. The players that do not make it into the draft pool are automatically added to the free agent list and may be assigned to a team if a player drops out in accordance with the Free Agent Rules.
-3. Captains take turns picking 1 player at a time from the available player pool.
-4. Each captain drafts 5 players for a total of 6 players in one team (for CET-WED) and 4 players for a total of 5 players on the team (for CET-SUN).
-5. The pick order for the first round will be based on the captains’ ranks.
+1. The player pool of the draft is made up of a number of players equal to the number of captains times four. If the number of signed up players exceeds the required amount of captains, the pool of draftable players will be decided on a first come first serve basis.
+2. Captains take turns picking 1 player at a time from the available player pool.
+3. Each captain drafts 4 players for a total of 5 players on the team.
+4. The pick order for the first round will be based on the captains’ ranks.
 	1. The format of the player draft is the EU Draft system, meaning that the pick order for each round is determined by the average MMR of the team after the conclusion of the previous round.
 
 ### 5. Team Rules
 
 1. If a team loses a player, they have to ask for a free agent in accordance with the Free Agent Rules.
-2. Every player on a team’s roster must play at least half the games and series whenever possible. 
-	1. If a team has 6 players (CET-WED), the captain may choose to swap players inbetween series or between games within a series, but must play all players frequently.  
-3. Captains are responsible for drafting the players and organising their RD2L team.  
+2. Captains are responsible for drafting the players and organising their RD2L team.  
 	1. Captains are the primary contact for their team, for communication with both the admin team and other team captains.  
 	2. The organization of the team may be delegated to a team member if the team member and captain wish to do so.  
-4. Each team must use an in-game team that is new and unique to that season, meaning that it has not been used in previous seasons, for teams in other divisions during the current season, or outside of RD2L. 
-5. Captains must ticket all games and series played.  
+3. Each team must use an in-game team that is new and unique to that season, meaning that it has not been used in previous seasons, for teams in other divisions during the current season, or outside of RD2L. 
+4. Captains must ticket all games and series played.  
 	1. Teams must use the same unique in-game team for every game player.
 	2. The Home team captain is responsible for ticketing the lobby. The home team in the Group Stage is the team listed on the left hand side of the matchup, whereas in playoffs the home team is the upper team in the matchup.
 	3. If a game is found to have been improperly ticketed by the home team, the result of the game must be submitted with screenshots of the result to the division admin within 24 hours of the game, and the following punishments apply to the first game following the offence:
 		1. First offence: Level 2 Draft Penalty (-70 seconds)
 		2. Second offence: Level 3 Draft Penalty (-110 seconds)
 		3. Third offence: Additional loss on team’s standings score (in groups), Forfeit of Game 1 (in playoffs series)
-6. Players are expected to stay with their RD2L team until the season is over. Players that leave their teams before the season is over may be punished at the division admins' discretion.
-7. Captains can ask admins to remove certain players exhibiting disruptive behaviour (e.g. griefing, inactivity). The admin team will then make a decision based on information from both parties (the player and the captain).
+5. Players are expected to stay with their RD2L team until the season is over. Players that leave their teams before the season is over may be punished at the division admins' discretion.
+6. Captains can ask admins to remove certain players exhibiting disruptive behaviour (e.g. griefing, inactivity). The admin team will then make a decision based on information from both parties (the player and the captain).
 
 ### 6. Game Rules
 
@@ -119,9 +115,8 @@
 	3. The opposing captain must be notified about the stand-in. To do so, ping the opposing captain in the #wed-captains or #sun-captains Discord channels with the names and Dotabuff links of both the missing player and the proposed standin.  
 	4. The opposing captain must approve of the stand-in before they can be used in the game. If the opposing captain feels that the proposed stand-in is unfair, the captain may contact the division admins by pinging them in the #wed-captains or #sun-captains Discord channels. In this case, the admins have the final say on whether the stand-in is allowed or not.  
 	5. If no other player is available, a stand-in with a higher MMR can be used if the other captain agrees.  
-2. Teams may only use 1 stand-in per game for CET-WED, and 2 stand-ins per game for CET-SUN.  
-	1. The use of a stand-in caused by not yet having received a free agent will not count toward the above total.  
-	2. In CET-WED each team may, once per season, use two stand-ins.
+2. Teams may use up to two stand-ins per game
+	1. The use of a stand-in caused by not yet having received a free agent does not count toward the above total.  
 3. The use of an unauthorized stand-in may be punished by a retroactive forfeit for the offending team.  
 
 ### 8. Free Agent Rules
