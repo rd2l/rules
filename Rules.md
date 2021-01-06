@@ -88,35 +88,35 @@
 2. The lobby must have a minimum of 2 minutes of spectator delay.
 3. Teams will flip a coin to determine the choice of side or pick order for the first game of a series. The loser of that coin flip is the first to choose in the second game. In case of a game 3, the teams will do another coin flip to determine which team gets to pick between side and pick order.
 4. The start time for the series is 20:00 CET for both divisions. It is suggested that players begin gathering in the lobby 15 minutes before the official start time in case a stand-in might be required.
-    3. The standard start time for the series changes in accordance with daylight saving time.
+    1. The standard start time for the series changes in accordance with daylight saving time.
 5. Captains must enforce penalties if their opponents are late. The penalties are enforced for all games in the series and are as follows:
-    4. 10 minutes past start time - Level 1 Draft Penalty
-    5. 15 minutes past start time - Level 2 Draft Penalty
-    6. 20 minutes past start time - Level 3 Draft Penalty
-    7. 25 minutes past start time - Game 1 forfeit
-    8. 30 minutes past start time - Series forfeit
+    1. 10 minutes past start time - Level 1 Draft Penalty
+    2. 15 minutes past start time - Level 2 Draft Penalty
+    3. 20 minutes past start time - Level 3 Draft Penalty
+    4. 25 minutes past start time - Game 1 forfeit
+    5. 30 minutes past start time - Series forfeit
 6. If 20 minutes have passed and neither team is ready to play, a double forfeit is issued.
 7. In order to claim a forfeit win or a penalty due to the other team not being ready in time, the captain must do the following:
-    9. Take a screenshot of the ticketed lobby with all 5 players from the team’s official roster (or a lineup consisting of at least 3 players from the roster and at most 2 authorized stand-ins) seated in the Radiant or Dire slots, ready to play, with the team name visible;
-    10. Post the screenshot in the division’s captains channel on Discord, using mentions to notify a division admin and the opposing captain, stating that you are claiming a forfeit win or enforcing a draft penalty.
+    1. Take a screenshot of the ticketed lobby with all 5 players from the team’s official roster (or a lineup consisting of at least 3 players from the roster and at most 2 authorized stand-ins) seated in the Radiant or Dire slots, ready to play, with the team name visible;
+    2. Post the screenshot in the division’s captains channel on Discord, using mentions to notify a division admin and the opposing captain, stating that you are claiming a forfeit win or enforcing a draft penalty.
 8. Each team is allowed up to 15 minutes of pause time per game, unless both teams agree to a higher amount.
-    11. If a player does not reconnect in time, a team may continue playing without them. Controlling the missing players’ hero is allowed.
-    12. Pause time used to contact an admin in order to get a ruling does not count toward either teams’ total.
-    13. Pauses in the hero selection phase are only allowed if one of the drafters disconnects. Strategic disconnects to gain more draft time will be punished at the discretion of the admin team.
+    1. If a player does not reconnect in time, a team may continue playing without them. Controlling the missing players’ hero is allowed.
+    2. Pause time used to contact an admin in order to get a ruling does not count toward either teams’ total.
+    3. Pauses in the hero selection phase are only allowed if one of the drafters disconnects. Strategic disconnects to gain more draft time will be punished at the discretion of the admin team.
 9. Teams have up to 15 minutes after a game to start the next game in the series.
-    14. Teams can reschedule games to an earlier date. The division admin must be notified, and the penalty rules listed under point 5 apply to the rescheduled date and time.
-    15. If the teams wish to delay a game to a later date, approval of the division admins is required.
+    1. Teams can reschedule games to an earlier date. The division admin must be notified, and the penalty rules listed under point 5 apply to the rescheduled date and time.
+    2. If the teams wish to delay a game to a later date, approval of the division admins is required.
 10. Malicious or fake GG calls will be punished.
 11. Games may be remade if:
-    16. There is a major issue affecting gameplay and both team captains agree to a remake;
-    17. A player accidentally selects a wrong hero.
-    18. This remake must be requested earlier than 1 minute before the first bounty rune spawns.
-    19. The remake must be hosted in either All Pick or Captain’s Mode with the same hero picks for both teams.
+    1. There is a major issue affecting gameplay and both team captains agree to a remake;
+    2. A player accidentally selects a wrong hero.
+    3. This remake must be requested earlier than 1 minute before the first bounty rune spawns.
+    4. The remake must be hosted in either All Pick or Captain’s Mode with the same hero picks for both teams.
 12. Scripts and macros are strictly prohibited in official RD2L games. Players that are found using either in official games may be punished at the discretion of the admin team.
-    20. Possible punishments include retroactive forfeits on the matches in question and a ban from the league.
+    1. Possible punishments include retroactive forfeits on the matches in question and a ban from the league.
 13. If a game breaking bug is found, the admin team reserves the right to ban the abuse of said bug. Players discovering game breaking bugs must inform the admin team. Abusing a game breaking bug may lead to a forfeit or remake of the game in question, based on the decision made by the admin team.
 14. All chat is allowed, unless either team requests no all chat.
-    21. Tipping, using the chat wheel or hero taunts are all allowed in official matches.
-    22. All chat is always allowed for the purpose of calling GG.
-    23. All chat during games will be civil and in accordance with the general RD2L rules.
-    24. Continuous use of all chat for anything other than important game information (pauses, surrenders, etc.) after a “no all chat” request by either team may result in punishment at the division admin’s discretion.
+    1. Tipping, using the chat wheel or hero taunts are all allowed in official matches.
+    2. All chat is always allowed for the purpose of calling GG.
+    3. All chat during games will be civil and in accordance with the general RD2L rules.
+    4. Continuous use of all chat for anything other than important game information (pauses, surrenders, etc.) after a “no all chat” request by either team may result in punishment at the division admin’s discretion.
